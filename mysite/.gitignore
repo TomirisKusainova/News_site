@@ -1,0 +1,7 @@
+static
+migrations
+django_cache
+media
+mysite/static
+db.sqlite3
+
